@@ -1,20 +1,17 @@
-* {font-family: monospace;}
-ul {list-style-type: none; margin: 0; padding: 10px; background-color:antiquewhite;text-align: center;border: 2px solid darkcyan;}
+body {background-color:rgb(255, 223, 127);font-family: monospace;}
+ul {list-style-type: none; margin: 0; padding: 10px; margin-left: 400px;margin-right: 400px ; background-color:floralwhite;text-align: center;border: 2px solid darkcyan;}
 
 li {display: inline;}
 
-h1 {color: darkcyan;text-decoration: overline;text-align: center;}
+h1 {color: darkcyan;text-decoration: none;text-align: center;font-size: 40px;}
 
-h2 {color:darkcyan;text-decoration: underline;text-align: center;font-size: larger;}
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+h2 {color: darkcyan;text-decoration: none;text-align: center;font-size: 40px;}
+article {text-align: center;  margin-left: 150px;margin-right: 150px;border: 2px solid darkcyan; margin-left: 500px; margin-right: 500px;}
+p {text-align: center;margin-left: 150px;margin-right: 150px; text-decoration: line-through;}
+
+button {align-items: center;} 
+ 
+.dark-mode {
+  background-color: rgb(100, 94, 94);
+  color: rgb(255, 250, 250);
 }
-h3 {color: darkcyan;text-decoration: underline;text-align: left;}
-p {text-align:center;text-decoration: line-through;border: 2px solid darkcyan;
-  border-radius: 5px;background-color: antiquewhite;}
-
-button {align-items: center;}
-footer {border: 2px solid darkcyan;text-align: center;}

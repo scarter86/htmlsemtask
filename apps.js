@@ -8,3 +8,8 @@ let feedback = age >= 18 ?
 alert(feedback);
 
 alert('Welcome!')
+
+function myFunction() {
+    var element = document.body;
+    element.classList.toggle("dark-mode");
+  }
