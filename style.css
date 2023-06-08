@@ -11,7 +11,8 @@ h2 {color:darkcyan;text-decoration: underline;text-align: center;font-size: larg
   margin-right: auto;
   width: 50%;
 }
-h3 {color: darkcyan;text-decoration: underline;text-align: center;}
+h3 {color: darkcyan;text-decoration: underline;text-align: left;}
 p {text-align:center;text-decoration: line-through;}
 
+button {align-items: center;}
 footer {color: tomato; text-decoration: underline; text-align: center; font-size: larger;border: 50px cyan}
