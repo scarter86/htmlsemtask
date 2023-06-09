@@ -1,6 +1,6 @@
 let Username = prompt ("Nice to meet you, what's your name?");
 console.log (Username)
-const Welcomemsg = alert("Welcome to my Pop up Paradise " + Username);
+const Welcomemsg = alert("Welcome to Pop up Prompt Paradise " + Username);
 
 let ageStr = prompt('How old are you?');
 let age = Number(ageStr);
